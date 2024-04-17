@@ -43,4 +43,4 @@ Projects
 • Implemented anomaly detection algorithms to identify fraudulent transactions in financial data.
 • Developed a risk scoring system to prioritize alerts for further investigation.
 
-Thank you for visiting my portfolio. For more information or to discuss collaboration opportunities, feel free to contact me at email@example.com.
+Thank you for visiting my portfolio. For more information or to discuss collaboration opportunities, feel free to contact me at mb8655@stern.nyu.edu
