@@ -2,7 +2,9 @@
 Highlighting exceptional data science projects and analytics expertise 
 
 Master’s in Business Analytics Portfolio
+
 Welcome to my portfolio showcasing my journey through the Master’s in Business Analytics program at New York University. Below, you’ll find details about the courses I completed and the projects I worked on during my time in the program.
+
 Courses
 1. Data Mining and Visualization
 • Explored techniques for extracting valuable insights from large datasets.
@@ -22,6 +24,8 @@ Courses
 6. Financial Analytics
 • Applied analytics techniques to financial data for risk management and portfolio optimization.
 • Studied quantitative methods for financial forecasting and valuation.
+
+
 Projects
 1. Customer Segmentation Analysis
 • Leveraged clustering algorithms to segment customers based on their purchasing behavior.
@@ -38,7 +42,5 @@ Projects
 5. Fraud Detection in Financial Transactions
 • Implemented anomaly detection algorithms to identify fraudulent transactions in financial data.
 • Developed a risk scoring system to prioritize alerts for further investigation.
-6. Supply Chain Optimization
-• Optimized inventory levels and distribution network for a manufacturing company.
-• Used linear programming and simulation techniques to minimize costs while meeting demand.
+
 Thank you for visiting my portfolio. For more information or to discuss collaboration opportunities, feel free to contact me at email@example.com.
